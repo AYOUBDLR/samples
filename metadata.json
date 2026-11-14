@@ -1,0 +1,6 @@
+{
+  "name": "Free Samples by Mail",
+  "description": "Claim real US brand samples delivered free to your mailbox. Valid email submit only — no surveys, no credit card, no catch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
